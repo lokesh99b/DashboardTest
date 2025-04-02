@@ -2,7 +2,7 @@
   "name": "testp2",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://gitname.github.io/DashboardTest",
+  "homepage": "https://lokesh99b.github.io/DashboardTest/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
